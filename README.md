@@ -1,5 +1,7 @@
 # BankApplication_Backend
 
+Database : Postgres 17
+
 CUSTOMER TABLE :
 
 CREATE TABLE customers (
